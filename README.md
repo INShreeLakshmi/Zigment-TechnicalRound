@@ -1,3 +1,3 @@
-Core Features Implementation
-Validation
-Testing
+Core Features Implementation,
+Validation,
+Testing.
